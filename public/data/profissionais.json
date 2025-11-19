@@ -1,0 +1,1683 @@
+[
+  {
+    "id": 1,
+    "nome": "Profissional 01",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Especialista em aplicações web e experiências digitais",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "SQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa A", "cargo": "Desenvolvedor", "inicio": "2022-01", "fim": "2024-06", "descricao": "Desenvolvimento de SPAs e APIs."}
+    ],
+    "formacao": [
+      {"curso": "Bacharel em Sistemas de Informação", "instituicao": "FIAP", "ano": 2019},
+      {"curso": "Pós-Graduação em Data Science", "instituicao": "PUC-Rio", "ano": 2022}
+    ],
+    "projetos": [
+      {"titulo": "Plataforma Conecta", "link": "#", "descricao": "Rede de profissionais."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Certified Cloud Practitioner"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["IA ética", "Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 2,
+    "nome": "Profissional 02",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Analista focado em insights acionáveis e visualização",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI"],
+    "softSkills": ["Pensamento crítico", "Comunicação", "Organização"],
+    "experiencias": [
+      {"empresa": "Empresa B", "cargo": "Analista", "inicio": "2021-03", "fim": "2024-05", "descricao": "Modelagem e análise de dados."}
+    ],
+    "formacao": [
+      {"curso": "Bacharel em Estatística", "instituicao": "UFRJ", "ano": 2018}
+    ],
+    "projetos": [
+      {"titulo": "Dashboard Vendas", "link": "#", "descricao": "Visualização de KPIs."}
+    ],
+    "certificados": [
+      {"titulo": "Google Data Analytics"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Políticas públicas"]
+  },
+  {
+    "id": 3,
+    "nome": "Profissional 03",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Cria experiências acessíveis e centradas no usuário",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UX Research", "HTML"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Startup C", "cargo": "UX Designer", "inicio": "2020-07", "fim": "2024-08", "descricao": "Pesquisa e prototipagem."}
+    ],
+    "formacao": [
+      {"curso": "Design Digital", "instituicao": "UTFPR", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "App Mobilidade", "link": "#", "descricao": "Aplicativo de transporte."}
+    ],
+    "certificados": [
+      {"titulo": "UX-PM Nível 2"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Acessibilidade", "Educação"]
+  },
+  {
+    "id": 4,
+    "nome": "Profissional 04",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Automação de pipelines e observabilidade",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Docker", "Terraform"],
+    "softSkills": ["Resiliência", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {"empresa": "Empresa D", "cargo": "DevOps", "inicio": "2019-05", "fim": "2024-07", "descricao": "Infra como código e CI/CD."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Computação", "instituicao": "UFMG", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Observabilidade 360", "link": "#", "descricao": "Stack de monitoramento."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Solutions Architect Associate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Energia"]
+  },
+  {
+    "id": 5,
+    "nome": "Profissional 05",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Orienta estratégias de produto centradas no usuário",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Roadmapping", "Analytics", "Scrum"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa E", "cargo": "PM", "inicio": "2018-02", "fim": "2024-09", "descricao": "Gestão de backlog e métricas."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFRGS", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Marketplace Local", "link": "#", "descricao": "Plataforma de compras."}
+    ],
+    "certificados": [
+      {"titulo": "CSPO"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Impacto social", "Educação"]
+  },
+  {
+    "id": 6,
+    "nome": "Profissional 06",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade de software e automação de testes",
+    "localizacao": "Recife/PE",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Cypress", "Selenium", "Postman"],
+    "softSkills": ["Detalhismo", "Comunicação", "Proatividade"],
+    "experiencias": [
+      {"empresa": "Empresa F", "cargo": "QA", "inicio": "2020-04", "fim": "2024-10", "descricao": "Testes automatizados e exploratórios."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFPE", "ano": 2018}
+    ],
+    "projetos": [
+      {"titulo": "Suite de Testes", "link": "#", "descricao": "Automação end-to-end."}
+    ],
+    "certificados": [
+      {"titulo": "ISTQB Foundation"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Saúde", "Educação"]
+  },
+  {
+    "id": 7,
+    "nome": "Profissional 07",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Foco em arquitetura e boas práticas",
+    "localizacao": "Salvador/BA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "TypeScript", "Docker"],
+    "softSkills": ["Comunicação", "Liderança", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa G", "cargo": "Engenheiro", "inicio": "2017-06", "fim": "2024-06", "descricao": "Arquitetura de microserviços."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Software", "instituicao": "UNIFACS", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Sistema Financeiro", "link": "#", "descricao": "Serviços escaláveis."}
+    ],
+    "certificados": [
+      {"titulo": "Azure Fundamentals"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 8,
+    "nome": "Profissional 08",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Modelagem preditiva e storytelling de dados",
+    "localizacao": "Brasília/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Tableau"],
+    "softSkills": ["Pensamento analítico", "Comunicação", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Órgão H", "cargo": "Analista", "inicio": "2019-01", "fim": "2024-04", "descricao": "Relatórios executivos e modelos."}
+    ],
+    "formacao": [
+      {"curso": "Ciência de Computação", "instituicao": "UnB", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Modelo de Previsão", "link": "#", "descricao": "Time series."}
+    ],
+    "certificados": [
+      {"titulo": "DBT Fundamentals"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Transparência", "Educação"]
+  },
+  {
+    "id": 9,
+    "nome": "Profissional 09",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Experiências inclusivas e testáveis",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Prototipação", "Usabilidade", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Agência I", "cargo": "UX", "inicio": "2018-09", "fim": "2024-02", "descricao": "Design system e testes."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "IFCE", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Design System", "link": "#", "descricao": "Componentes reutilizáveis."}
+    ],
+    "certificados": [
+      {"titulo": "Google UX Certificate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Acessibilidade", "Educação"]
+  },
+  {
+    "id": 10,
+    "nome": "Profissional 10",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Confiabilidade e segurança de ambientes",
+    "localizacao": "Campinas/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["Kubernetes", "Grafana", "Linux"],
+    "softSkills": ["Resiliência", "Comunicação", "Proatividade"],
+    "experiencias": [
+      {"empresa": "Empresa J", "cargo": "DevOps", "inicio": "2016-04", "fim": "2024-01", "descricao": "SRE e observabilidade."}
+    ],
+    "formacao": [
+      {"curso": "Redes de Computadores", "instituicao": "UNICAMP", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Cluster K8s", "link": "#", "descricao": "Infra escalável."}
+    ],
+    "certificados": [
+      {"titulo": "CKA"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 11,
+    "nome": "Profissional 11",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "APIs robustas e práticas ágeis",
+    "localizacao": "Niterói/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Java", "Spring", "PostgreSQL"],
+    "softSkills": ["Comunicação", "Organização", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa K", "cargo": "Backend", "inicio": "2015-03", "fim": "2024-03", "descricao": "APIs REST e integrações."}
+    ],
+    "formacao": [
+      {"curso": "Ciência da Computação", "instituicao": "UFF", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "API Pagamentos", "link": "#", "descricao": "Gateway de pagamentos."}
+    ],
+    "certificados": [
+      {"titulo": "Oracle Java SE"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Finanças", "Educação"]
+  },
+  {
+    "id": 12,
+    "nome": "Profissional 12",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Transforma dados em decisões",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": ["R", "SQL", "Power BI"],
+    "softSkills": ["Comunicação", "Pensamento crítico", "Detalhismo"],
+    "experiencias": [
+      {"empresa": "Empresa L", "cargo": "Analista", "inicio": "2017-11", "fim": "2024-09", "descricao": "ETL e relatórios."}
+    ],
+    "formacao": [
+      {"curso": "Matemática", "instituicao": "UFSC", "ano": 2012}
+    ],
+    "projetos": [
+      {"titulo": "Pipeline ETL", "link": "#", "descricao": "Integração de dados."}
+    ],
+    "certificados": [
+      {"titulo": "Power BI Analyst"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 13,
+    "nome": "Profissional 13",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Design centrado em pessoas",
+    "localizacao": "Uberlândia/MG",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Design System", "HTML"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Startup M", "cargo": "UX", "inicio": "2021-01", "fim": "2024-06", "descricao": "Pesquisa e protótipos."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "UFU", "ano": 2018}
+    ],
+    "projetos": [
+      {"titulo": "Portal Educacional", "link": "#", "descricao": "Experiência de aprendizagem."}
+    ],
+    "certificados": [
+      {"titulo": "UX-PM Nível 1"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Inclusão"]
+  },
+  {
+    "id": 14,
+    "nome": "Profissional 14",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Entrega contínua e confiabilidade",
+    "localizacao": "João Pessoa/PB",
+    "area": "TI",
+    "habilidadesTecnicas": ["GitHub Actions", "Docker", "Linux"],
+    "softSkills": ["Comunicação", "Resiliência", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa N", "cargo": "DevOps", "inicio": "2018-08", "fim": "2024-05", "descricao": "CI/CD e monitoramento."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFPB", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Pipeline CI", "link": "#", "descricao": "Integração contínua."}
+    ],
+    "certificados": [
+      {"titulo": "AWS DevOps Engineer"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Tecnologia cívica"]
+  },
+  {
+    "id": 15,
+    "nome": "Profissional 15",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Descoberta de produto e entregas de valor",
+    "localizacao": "Vitória/ES",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["OKRs", "Roadmaps", "Pesquisa"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa O", "cargo": "PM", "inicio": "2017-02", "fim": "2024-08", "descricao": "Estratégia e métricas."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFES", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "App Finanças", "link": "#", "descricao": "Controle financeiro pessoal."}
+    ],
+    "certificados": [
+      {"titulo": "PMI-ACP"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Finanças pessoais"]
+  },
+  {
+    "id": 16,
+    "nome": "Profissional 16",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Automação e qualidade contínua",
+    "localizacao": "Belém/PA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Playwright", "API Testing", "Jest"],
+    "softSkills": ["Organização", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa P", "cargo": "QA", "inicio": "2020-01", "fim": "2024-06", "descricao": "Testes E2E e integração."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFPA", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "Pipeline de Qualidade", "link": "#", "descricao": "Qualidade integrada ao dev."}
+    ],
+    "certificados": [
+      {"titulo": "ISTQB Agile Tester"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Energia"]
+  },
+  {
+    "id": 17,
+    "nome": "Profissional 17",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Back-end escalável e APIs",
+    "localizacao": "Maceió/AL",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Node.js", "NestJS", "MongoDB"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa Q", "cargo": "Backend", "inicio": "2016-10", "fim": "2024-03", "descricao": "APIs de alto tráfego."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFAL", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Mensageria", "link": "#", "descricao": "Fila e eventos."}
+    ],
+    "certificados": [
+      {"titulo": "Docker Associate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 18,
+    "nome": "Profissional 18",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "ETL e governança de dados",
+    "localizacao": "Natal/RN",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Airflow", "SQL", "DBT"],
+    "softSkills": ["Comunicação", "Detalhismo", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa R", "cargo": "Eng. Dados", "inicio": "2018-03", "fim": "2024-06", "descricao": "Pipelines e modelagem."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Computação", "instituicao": "UFRN", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Lakehouse", "link": "#", "descricao": "Arquitetura de dados."}
+    ],
+    "certificados": [
+      {"titulo": "Databricks Lakehouse"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 19,
+    "nome": "Profissional 19",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Design acessível e escalável",
+    "localizacao": "Aracaju/SE",
+    "area": "Design",
+    "habilidadesTecnicas": ["User Testing", "Design System", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa S", "cargo": "UX", "inicio": "2017-09", "fim": "2024-06", "descricao": "Testes e guidelines."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "UNIT", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Portal Cidadão", "link": "#", "descricao": "Serviços públicos digitais."}
+    ],
+    "certificados": [
+      {"titulo": "Nielsen Norman UX"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Tecnologia cívica", "Educação"]
+  },
+  {
+    "id": 20,
+    "nome": "Profissional 20",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Confiabilidade de plataformas cloud",
+    "localizacao": "Goiânia/GO",
+    "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Terraform", "Prometheus"],
+    "softSkills": ["Resiliência", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa T", "cargo": "SRE", "inicio": "2016-01", "fim": "2024-06", "descricao": "Monitoramento e escalabilidade."}
+    ],
+    "formacao": [
+      {"curso": "Redes", "instituicao": "UFG", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Plataforma IoT", "link": "#", "descricao": "Infra e observabilidade."}
+    ],
+    "certificados": [
+      {"titulo": "AWS SysOps"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 21,
+    "nome": "Profissional 21",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Crescimento orientado a métricas",
+    "localizacao": "São Luís/MA",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["A/B Testing", "Analytics", "Scrum"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa U", "cargo": "PM", "inicio": "2015-07", "fim": "2024-06", "descricao": "Discovery e delivery."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFMA", "ano": 2012}
+    ],
+    "projetos": [
+      {"titulo": "Produto SaaS", "link": "#", "descricao": "Plataforma B2B."}
+    ],
+    "certificados": [
+      {"titulo": "CSM"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Empreendedorismo"]
+  },
+  {
+    "id": 22,
+    "nome": "Profissional 22",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade, performance e segurança",
+    "localizacao": "Campo Grande/MS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Locust", "OWASP", "Cypress"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa V", "cargo": "QA", "inicio": "2019-02", "fim": "2024-06", "descricao": "Testes de performance e segurança."}
+    ],
+    "formacao": [
+      {"curso": "Segurança da Informação", "instituicao": "UFMS", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "Pentest Interno", "link": "#", "descricao": "Ensaios de segurança."}
+    ],
+    "certificados": [
+      {"titulo": "CompTIA Security+"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 23,
+    "nome": "Profissional 23",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Fullstack e cloud",
+    "localizacao": "Manaus/AM",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "AWS"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa W", "cargo": "Fullstack", "inicio": "2018-05", "fim": "2024-05", "descricao": "Produtos digitais completos."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Software", "instituicao": "UFAM", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "E-commerce", "link": "#", "descricao": "Loja virtual."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Cloud Practitioner"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 24,
+    "nome": "Profissional 24",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Data viz e KPIs",
+    "localizacao": "Macapá/AP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Metabase", "Python"],
+    "softSkills": ["Comunicação", "Organização", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa X", "cargo": "Analista", "inicio": "2019-03", "fim": "2024-03", "descricao": "Indicadores e relatórios."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "UNIFAP", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "KPIs Operacionais", "link": "#", "descricao": "Acompanhamento de métricas."}
+    ],
+    "certificados": [
+      {"titulo": "Google Data Analytics"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 25,
+    "nome": "Profissional 25",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Design de serviços e pesquisa",
+    "localizacao": "Porto Velho/RO",
+    "area": "Design",
+    "habilidadesTecnicas": ["Service Design", "Pesquisas", "Figma"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa Y", "cargo": "Designer", "inicio": "2020-05", "fim": "2024-04", "descricao": "Jornadas e protótipos."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "UNIR", "ano": 2018}
+    ],
+    "projetos": [
+      {"titulo": "Jornada do Usuário", "link": "#", "descricao": "Mapa de serviços."}
+    ],
+    "certificados": [
+      {"titulo": "UX-PM Nível 2"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 26,
+    "nome": "Profissional 26",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Infra e segurança",
+    "localizacao": "Palmas/TO",
+    "area": "TI",
+    "habilidadesTecnicas": ["Azure", "Docker", "Terraform"],
+    "softSkills": ["Resiliência", "Comunicação", "Proatividade"],
+    "experiencias": [
+      {"empresa": "Empresa Z", "cargo": "DevOps", "inicio": "2017-01", "fim": "2024-06", "descricao": "Segurança e automação."}
+    ],
+    "formacao": [
+      {"curso": "Redes", "instituicao": "UFT", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Infra Segura", "link": "#", "descricao": "Hardening e logs."}
+    ],
+    "certificados": [
+      {"titulo": "Azure Administrator"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Energia"]
+  },
+  {
+    "id": 27,
+    "nome": "Profissional 27",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Crescimento e experimentação",
+    "localizacao": "Sorocaba/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Growth", "Analytics", "Scrum"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa AA", "cargo": "PM", "inicio": "2016-09", "fim": "2024-06", "descricao": "Growth hacking e discovery."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "FACENS", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Produto Mobile", "link": "#", "descricao": "Aplicativo B2C."}
+    ],
+    "certificados": [
+      {"titulo": "CSPO"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Finanças pessoais"]
+  },
+  {
+    "id": 28,
+    "nome": "Profissional 28",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade orientada a risco",
+    "localizacao": "Cuiabá/MT",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Playwright", "API Testing", "JMeter"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AB", "cargo": "QA", "inicio": "2019-07", "fim": "2024-06", "descricao": "Testes de risco e performance."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFMT", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Monitor QA", "link": "#", "descricao": "Qualidade contínua."}
+    ],
+    "certificados": [
+      {"titulo": "ISTQB Foundation"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 29,
+    "nome": "Profissional 29",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Frontend e UX",
+    "localizacao": "São José dos Campos/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "TailwindCSS", "Vite"],
+    "softSkills": ["Comunicação", "Criatividade", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa AC", "cargo": "Frontend", "inicio": "2018-04", "fim": "2024-06", "descricao": "SPAs responsivas."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Computação", "instituicao": "ITA", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Portal Web", "link": "#", "descricao": "Portal corporativo."}
+    ],
+    "certificados": [
+      {"titulo": "React Developer"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 30,
+    "nome": "Profissional 30",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Análise exploratória e dashboards",
+    "localizacao": "Piracicaba/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Python", "Seaborn"],
+    "softSkills": ["Pensamento crítico", "Comunicação", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa AD", "cargo": "Analista", "inicio": "2017-05", "fim": "2024-06", "descricao": "Análises e storytelling."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "USP", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Dashboard Financeiro", "link": "#", "descricao": "KPIs financeiros."}
+    ],
+    "certificados": [
+      {"titulo": "Google Data Analytics"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 31,
+    "nome": "Profissional 31",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Pesquisas e protótipos",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UX Research", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa AE", "cargo": "UX", "inicio": "2019-02", "fim": "2024-06", "descricao": "Descoberta e protótipos."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "USP", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "App Saúde", "link": "#", "descricao": "UX para saúde."}
+    ],
+    "certificados": [
+      {"titulo": "Google UX Certificate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Saúde", "Educação"]
+  },
+  {
+    "id": 32,
+    "nome": "Profissional 32",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Automação e observabilidade",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Docker", "Grafana"],
+    "softSkills": ["Resiliência", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa AF", "cargo": "DevOps", "inicio": "2015-03", "fim": "2024-06", "descricao": "CI/CD e monitoramento."}
+    ],
+    "formacao": [
+      {"curso": "Computação", "instituicao": "UFRJ", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Infra Cloud", "link": "#", "descricao": "Observabilidade robusta."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Solutions Architect"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Energia"]
+  },
+  {
+    "id": 33,
+    "nome": "Profissional 33",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Estratégia de produto",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Roadmapping", "OKRs", "Analytics"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa AG", "cargo": "PM", "inicio": "2016-06", "fim": "2024-06", "descricao": "Descoberta e métricas."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFPR", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Produto Web", "link": "#", "descricao": "Plataforma de serviços."}
+    ],
+    "certificados": [
+      {"titulo": "CSPO"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Empreendedorismo"]
+  },
+  {
+    "id": 34,
+    "nome": "Profissional 34",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade e segurança",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["OWASP", "Cypress", "SAST"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AH", "cargo": "QA", "inicio": "2019-01", "fim": "2024-06", "descricao": "Qualidade e segurança."}
+    ],
+    "formacao": [
+      {"curso": "Segurança da Informação", "instituicao": "UFMG", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Segurança Web", "link": "#", "descricao": "Análises e testes."}
+    ],
+    "certificados": [
+      {"titulo": "CompTIA Security+"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 35,
+    "nome": "Profissional 35",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Arquitetura e cloud",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "AWS"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AI", "cargo": "Fullstack", "inicio": "2017-01", "fim": "2024-06", "descricao": "Produtos digitais."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Software", "instituicao": "UFRGS", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "E-commerce", "link": "#", "descricao": "Loja virtual."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Cloud Practitioner"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 36,
+    "nome": "Profissional 36",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "KPIs e relatórios",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Power BI", "Python"],
+    "softSkills": ["Comunicação", "Organização", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa AJ", "cargo": "Analista", "inicio": "2018-01", "fim": "2024-06", "descricao": "Indicadores e relatórios."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "UFPE", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "KPIs Operacionais", "link": "#", "descricao": "Acompanhamento de métricas."}
+    ],
+    "certificados": [
+      {"titulo": "Power BI Analyst"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 37,
+    "nome": "Profissional 37",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Experiências inclusivas",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": ["Prototipação", "Usabilidade", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Agência AK", "cargo": "UX", "inicio": "2018-09", "fim": "2024-02", "descricao": "Design system e testes."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "IFCE", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Design System", "link": "#", "descricao": "Componentes reutilizáveis."}
+    ],
+    "certificados": [
+      {"titulo": "Google UX Certificate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Acessibilidade", "Educação"]
+  },
+  {
+    "id": 38,
+    "nome": "Profissional 38",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "K8s e observabilidade",
+    "localizacao": "Campinas/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["Kubernetes", "Grafana", "Linux"],
+    "softSkills": ["Resiliência", "Comunicação", "Proatividade"],
+    "experiencias": [
+      {"empresa": "Empresa AL", "cargo": "DevOps", "inicio": "2016-04", "fim": "2024-01", "descricao": "SRE e observabilidade."}
+    ],
+    "formacao": [
+      {"curso": "Redes de Computadores", "instituicao": "UNICAMP", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Cluster K8s", "link": "#", "descricao": "Infra escalável."}
+    ],
+    "certificados": [
+      {"titulo": "CKA"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 39,
+    "nome": "Profissional 39",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Discovery e métricas",
+    "localizacao": "Vitória/ES",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["OKRs", "Roadmaps", "Pesquisa"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa AM", "cargo": "PM", "inicio": "2017-02", "fim": "2024-08", "descricao": "Estratégia e métricas."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFES", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "App Finanças", "link": "#", "descricao": "Controle financeiro pessoal."}
+    ],
+    "certificados": [
+      {"titulo": "PMI-ACP"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Finanças pessoais"]
+  },
+  {
+    "id": 40,
+    "nome": "Profissional 40",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Automação e performance",
+    "localizacao": "Belém/PA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Playwright", "API Testing", "Jest"],
+    "softSkills": ["Organização", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AN", "cargo": "QA", "inicio": "2020-01", "fim": "2024-06", "descricao": "Testes E2E e integração."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFPA", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "Pipeline de Qualidade", "link": "#", "descricao": "Qualidade integrada ao dev."}
+    ],
+    "certificados": [
+      {"titulo": "ISTQB Agile Tester"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Energia"]
+  },
+  {
+    "id": 41,
+    "nome": "Profissional 41",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Back-end e mensageria",
+    "localizacao": "Maceió/AL",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Node.js", "NestJS", "MongoDB"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AO", "cargo": "Backend", "inicio": "2016-10", "fim": "2024-03", "descricao": "APIs de alto tráfego."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFAL", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Mensageria", "link": "#", "descricao": "Fila e eventos."}
+    ],
+    "certificados": [
+      {"titulo": "Docker Associate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 42,
+    "nome": "Profissional 42",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "ETL e governança",
+    "localizacao": "Natal/RN",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Airflow", "SQL", "DBT"],
+    "softSkills": ["Comunicação", "Detalhismo", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa AP", "cargo": "Eng. Dados", "inicio": "2018-03", "fim": "2024-06", "descricao": "Pipelines e modelagem."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Computação", "instituicao": "UFRN", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Lakehouse", "link": "#", "descricao": "Arquitetura de dados."}
+    ],
+    "certificados": [
+      {"titulo": "Databricks Lakehouse"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 43,
+    "nome": "Profissional 43",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Design escalável",
+    "localizacao": "Aracaju/SE",
+    "area": "Design",
+    "habilidadesTecnicas": ["User Testing", "Design System", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa AQ", "cargo": "UX", "inicio": "2017-09", "fim": "2024-06", "descricao": "Testes e guidelines."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "UNIT", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Portal Cidadão", "link": "#", "descricao": "Serviços públicos digitais."}
+    ],
+    "certificados": [
+      {"titulo": "Nielsen Norman UX"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Tecnologia cívica", "Educação"]
+  },
+  {
+    "id": 44,
+    "nome": "Profissional 44",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Plataformas cloud",
+    "localizacao": "Goiânia/GO",
+    "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Terraform", "Prometheus"],
+    "softSkills": ["Resiliência", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa AR", "cargo": "SRE", "inicio": "2016-01", "fim": "2024-06", "descricao": "Monitoramento e escalabilidade."}
+    ],
+    "formacao": [
+      {"curso": "Redes", "instituicao": "UFG", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Plataforma IoT", "link": "#", "descricao": "Infra e observabilidade."}
+    ],
+     "certificados": [
+      {"titulo": "AWS SysOps"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Educação"]
+  },
+  {
+    "id": 45,
+    "nome": "Profissional 45",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Valor e métricas",
+    "localizacao": "São Luís/MA",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["A/B Testing", "Analytics", "Scrum"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa AS", "cargo": "PM", "inicio": "2015-07", "fim": "2024-06", "descricao": "Discovery e delivery."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFMA", "ano": 2012}
+    ],
+    "projetos": [
+      {"titulo": "Produto SaaS", "link": "#", "descricao": "Plataforma B2B."}
+    ],
+    "certificados": [
+      {"titulo": "CSM"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Empreendedorismo"]
+  },
+  {
+    "id": 46,
+    "nome": "Profissional 46",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade e segurança",
+    "localizacao": "Campo Grande/MS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Locust", "OWASP", "Cypress"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AT", "cargo": "QA", "inicio": "2019-02", "fim": "2024-06", "descricao": "Testes de performance e segurança."}
+    ],
+    "formacao": [
+      {"curso": "Segurança da Informação", "instituicao": "UFMS", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "Pentest Interno", "link": "#", "descricao": "Ensaios de segurança."}
+    ],
+    "certificados": [
+      {"titulo": "CompTIA Security+"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 47,
+    "nome": "Profissional 47",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Fullstack e cloud",
+    "localizacao": "Manaus/AM",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "AWS"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AU", "cargo": "Fullstack", "inicio": "2018-05", "fim": "2024-05", "descricao": "Produtos digitais completos."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Software", "instituicao": "UFAM", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "E-commerce", "link": "#", "descricao": "Loja virtual."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Cloud Practitioner"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 48,
+    "nome": "Profissional 48",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Data viz e KPIs",
+    "localizacao": "Macapá/AP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Metabase", "Python"],
+    "softSkills": ["Comunicação", "Organização", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa AV", "cargo": "Analista", "inicio": "2019-03", "fim": "2024-03", "descricao": "Indicadores e relatórios."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "UNIFAP", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "KPIs Operacionais", "link": "#", "descricao": "Acompanhamento de métricas."}
+    ],
+    "certificados": [
+      {"titulo": "Google Data Analytics"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 49,
+    "nome": "Profissional 49",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Design de serviços",
+    "localizacao": "Porto Velho/RO",
+    "area": "Design",
+    "habilidadesTecnicas": ["Service Design", "Pesquisas", "Figma"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa AW", "cargo": "Designer", "inicio": "2020-05", "fim": "2024-04", "descricao": "Jornadas e protótipos."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "UNIR", "ano": 2018}
+    ],
+    "projetos": [
+      {"titulo": "Jornada do Usuário", "link": "#", "descricao": "Mapa de serviços."}
+    ],
+    "certificados": [
+      {"titulo": "UX-PM Nível 2"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 50,
+    "nome": "Profissional 50",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Infra e segurança",
+    "localizacao": "Palmas/TO",
+    "area": "TI",
+    "habilidadesTecnicas": ["Azure", "Docker", "Terraform"],
+    "softSkills": ["Resiliência", "Comunicação", "Proatividade"],
+    "experiencias": [
+      {"empresa": "Empresa AX", "cargo": "DevOps", "inicio": "2017-01", "fim": "2024-06", "descricao": "Segurança e automação."}
+    ],
+    "formacao": [
+      {"curso": "Redes", "instituicao": "UFT", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "Infra Segura", "link": "#", "descricao": "Hardening e logs."}
+    ],
+    "certificados": [
+      {"titulo": "Azure Administrator"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Energia"]
+  },
+  {
+    "id": 51,
+    "nome": "Profissional 51",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Experimentação e métricas",
+    "localizacao": "Sorocaba/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Growth", "Analytics", "Scrum"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa AY", "cargo": "PM", "inicio": "2016-09", "fim": "2024-06", "descricao": "Growth hacking e discovery."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "FACENS", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Produto Mobile", "link": "#", "descricao": "Aplicativo B2C."}
+    ],
+    "certificados": [
+      {"titulo": "CSPO"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Finanças pessoais"]
+  },
+  {
+    "id": 52,
+    "nome": "Profissional 52",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade e risco",
+    "localizacao": "Cuiabá/MT",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Playwright", "API Testing", "JMeter"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa AZ", "cargo": "QA", "inicio": "2019-07", "fim": "2024-06", "descricao": "Testes de risco e performance."}
+    ],
+    "formacao": [
+      {"curso": "Sistemas de Informação", "instituicao": "UFMT", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Monitor QA", "link": "#", "descricao": "Qualidade contínua."}
+    ],
+    "certificados": [
+      {"titulo": "ISTQB Foundation"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  },
+  {
+    "id": 53,
+    "nome": "Profissional 53",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Frontend e UX",
+    "localizacao": "São José dos Campos/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "TailwindCSS", "Vite"],
+    "softSkills": ["Comunicação", "Criatividade", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa BA", "cargo": "Frontend", "inicio": "2018-04", "fim": "2024-06", "descricao": "SPAs responsivas."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Computação", "instituicao": "ITA", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Portal Web", "link": "#", "descricao": "Portal corporativo."}
+    ],
+    "certificados": [
+      {"titulo": "React Developer"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 54,
+    "nome": "Profissional 54",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "Exploração e dashboards",
+    "localizacao": "Piracicaba/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Python", "Seaborn"],
+    "softSkills": ["Pensamento crítico", "Comunicação", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa BB", "cargo": "Analista", "inicio": "2017-05", "fim": "2024-06", "descricao": "Análises e storytelling."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "USP", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Dashboard Financeiro", "link": "#", "descricao": "KPIs financeiros."}
+    ],
+    "certificados": [
+      {"titulo": "Google Data Analytics"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 55,
+    "nome": "Profissional 55",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Designer UX",
+    "resumo": "Pesquisas e protótipos",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UX Research", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {"empresa": "Empresa BC", "cargo": "UX", "inicio": "2019-02", "fim": "2024-06", "descricao": "Descoberta e protótipos."}
+    ],
+    "formacao": [
+      {"curso": "Design", "instituicao": "USP", "ano": 2017}
+    ],
+    "projetos": [
+      {"titulo": "App Saúde", "link": "#", "descricao": "UX para saúde."}
+    ],
+    "certificados": [
+      {"titulo": "Google UX Certificate"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Saúde", "Educação"]
+  },
+  {
+    "id": 56,
+    "nome": "Profissional 56",
+    "foto": "/images/placeholder.svg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Automação e observabilidade",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "TI",
+    "habilidadesTecnicas": ["AWS", "Docker", "Grafana"],
+    "softSkills": ["Resiliência", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {"empresa": "Empresa BD", "cargo": "DevOps", "inicio": "2015-03", "fim": "2024-06", "descricao": "CI/CD e monitoramento."}
+    ],
+    "formacao": [
+      {"curso": "Computação", "instituicao": "UFRJ", "ano": 2013}
+    ],
+    "projetos": [
+      {"titulo": "Infra Cloud", "link": "#", "descricao": "Observabilidade robusta."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Solutions Architect"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Sustentabilidade", "Energia"]
+  },
+  {
+    "id": 57,
+    "nome": "Profissional 57",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Product Manager",
+    "resumo": "Estratégia de produto",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Roadmapping", "OKRs", "Analytics"],
+    "softSkills": ["Liderança", "Comunicação", "Negociação"],
+    "experiencias": [
+      {"empresa": "Empresa BE", "cargo": "PM", "inicio": "2016-06", "fim": "2024-06", "descricao": "Descoberta e métricas."}
+    ],
+    "formacao": [
+      {"curso": "Administração", "instituicao": "UFPR", "ano": 2014}
+    ],
+    "projetos": [
+      {"titulo": "Produto Web", "link": "#", "descricao": "Plataforma de serviços."}
+    ],
+    "certificados": [
+      {"titulo": "CSPO"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Empreendedorismo"]
+  },
+  {
+    "id": 58,
+    "nome": "Profissional 58",
+    "foto": "/images/placeholder.svg",
+    "cargo": "QA Engineer",
+    "resumo": "Qualidade e segurança",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["OWASP", "Cypress", "SAST"],
+    "softSkills": ["Detalhismo", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa BF", "cargo": "QA", "inicio": "2019-01", "fim": "2024-06", "descricao": "Qualidade e segurança."}
+    ],
+    "formacao": [
+      {"curso": "Segurança da Informação", "instituicao": "UFMG", "ano": 2016}
+    ],
+    "projetos": [
+      {"titulo": "Segurança Web", "link": "#", "descricao": "Análises e testes."}
+    ],
+    "certificados": [
+      {"titulo": "CompTIA Security+"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Tecnologia cívica"]
+  },
+  {
+    "id": 59,
+    "nome": "Profissional 59",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Arquitetura e cloud",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["React", "Node.js", "AWS"],
+    "softSkills": ["Comunicação", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {"empresa": "Empresa BG", "cargo": "Fullstack", "inicio": "2017-01", "fim": "2024-06", "descricao": "Produtos digitais."}
+    ],
+    "formacao": [
+      {"curso": "Engenharia de Software", "instituicao": "UFRGS", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "E-commerce", "link": "#", "descricao": "Loja virtual."}
+    ],
+    "certificados": [
+      {"titulo": "AWS Cloud Practitioner"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areainteresses": ["Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 60,
+    "nome": "Profissional 60",
+    "foto": "/images/placeholder.svg",
+    "cargo": "Analista de Dados",
+    "resumo": "KPIs e relatórios",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Power BI", "Python"],
+    "softSkills": ["Comunicação", "Organização", "Curiosidade"],
+    "experiencias": [
+      {"empresa": "Empresa BH", "cargo": "Analista", "inicio": "2018-01", "fim": "2024-06", "descricao": "Indicadores e relatórios."}
+    ],
+    "formacao": [
+      {"curso": "Estatística", "instituicao": "UFPE", "ano": 2015}
+    ],
+    "projetos": [
+      {"titulo": "KPIs Operacionais", "link": "#", "descricao": "Acompanhamento de métricas."}
+    ],
+    "certificados": [
+      {"titulo": "Power BI Analyst"}
+    ],
+    "idiomas": [
+      {"idioma": "Português", "nivel": "Nativo"},
+      {"idioma": "Inglês", "nivel": "Intermediário"}
+    ],
+    "areainteresses": ["Educação", "Saúde"]
+  }
+]
