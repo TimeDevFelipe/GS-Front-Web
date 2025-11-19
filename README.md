@@ -36,10 +36,7 @@ Aplicação web que simula uma rede profissional voltada ao futuro do trabalho. 
 - `src/index.css`: importa `tailwindcss`.
 
 ## Link do repositório
-- Preencha com o link após publicar seu repositório.
-
-## Usuários e Senhas
-- Não há autenticação no projeto; não existem usuários e senhas.
+- https://github.com/TimeDevFelipe/GS-Front-Web
 
 ## Integrantes do Grupo
 - Raphael Aaron — RM 564067
