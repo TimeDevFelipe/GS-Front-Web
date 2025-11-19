@@ -1,4 +1,4 @@
-# Conectando Talentos — SPA React + Tailwind
+# Conectando Talentos — React + Tailwind
 
 Aplicação web que simula uma rede profissional voltada ao futuro do trabalho. Permite listar, buscar, filtrar e visualizar perfis com informações pessoais, acadêmicas, técnicas e comportamentais. Inclui Dark Mode, modal de detalhes e ações de "Recomendar" e "Enviar mensagem".
 
